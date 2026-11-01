@@ -3,7 +3,7 @@
 Built an end-to-end customer churn analytics solution using Brazil's Olist e-commerce dataset (93K+ customers), combining customer segmentation, churn-risk prediction, and targeted retention strategies to identify at-risk customers, protect R$3M+ in revenue, and improve retention ROI.
 
 ---
-<img width="2880" height="1620" alt="dashboard_5_model_actions" src="https://github.com/user-attachments/assets/2be75ca2-de22-4927-bc45-d47103c7d7fc" />
+<img width="2880" height="1620" alt="dashboard_1_overview" src="https://github.com/user-attachments/assets/ab6e1af2-4cdc-45c2-9000-cc311f992c8a" />
 
 
 ## Objective
@@ -67,13 +67,9 @@ Full breakdown of segments, clusters, model results, the action matrix and recom
 ---
 
 ## Dashboard
-
-
-<img width="2880" height="1620" alt="dashboard_4_behavioural_clusters" src="https://github.com/user-attachments/assets/0bf36e26-b738-44ab-af1f-165f5aada873" />
-<img width="2880" height="1620" alt="dashboard_3_segments_revenue_risk" src="https://github.com/user-attachments/assets/80d9bd4a-be2e-49ed-a59b-73b2e7d5eb05" />
-<img width="2880" height="1620" alt="dashboard_2_delivery_satisfaction" src="https://github.com/user-attachments/assets/af4e6dd1-fb88-49f8-b280-47bf115cb422" />
 <img width="2880" height="1620" alt="dashboard_1_overview" src="https://github.com/user-attachments/assets/ab6e1af2-4cdc-45c2-9000-cc311f992c8a" />
+<img width="2880" height="1620" alt="dashboard_2_delivery_satisfaction" src="https://github.com/user-attachments/assets/af4e6dd1-fb88-49f8-b280-47bf115cb422" />
+<img width="2880" height="1620" alt="dashboard_3_segments_revenue_risk" src="https://github.com/user-attachments/assets/80d9bd4a-be2e-49ed-a59b-73b2e7d5eb05" />
+<img width="2880" height="1620" alt="dashboard_4_behavioural_clusters" src="https://github.com/user-attachments/assets/0bf36e26-b738-44ab-af1f-165f5aada873" />
+<img width="2880" height="1620" alt="dashboard_5_model_actions" src="https://github.com/user-attachments/assets/2be75ca2-de22-4927-bc45-d47103c7d7fc" />
 
----
-
-**Author:** Anurag Tiwari
