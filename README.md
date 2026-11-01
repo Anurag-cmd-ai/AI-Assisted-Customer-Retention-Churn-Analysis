@@ -52,7 +52,6 @@ Built an end-to-end customer churn analytics solution using Brazil's Olist e-com
 │   ├── dashboard_2_behavioural_clusters.png
 │   └── dashboard_3_churn_model_actions.png
 ├── INSIGHTS.md                                   detailed insights and outcomes
-├── Project_Report.docx                           full project report
 └── README.md
 ```
 
