@@ -5,7 +5,6 @@ Built an end-to-end customer churn analytics solution using Brazil's Olist e-com
 ---
 <img width="2880" height="1620" alt="dashboard_1_overview" src="https://github.com/user-attachments/assets/ab6e1af2-4cdc-45c2-9000-cc311f992c8a" />
 
-
 ## Objective
 
 - Identify **who** is likely to stop buying (churn-risk prediction).
@@ -32,7 +31,7 @@ Built an end-to-end customer churn analytics solution using Brazil's Olist e-com
 
 ```
 ├── Data/
-│   ├── olist_orders_dataset.csv                  raw Olist tables (Kaggle)
+│   ├── olist_orders_dataset.csv                  raw Olist tables (Kaggle dataset link)
 ├── notebook/
 │   ├── 01_data_cleaning.ipynb                    merge, clean, feature engineering
 │   └── 02_eda_and_segmentation.ipynb             EDA, RFM segmentation, K-Means clustering
@@ -48,7 +47,9 @@ Built an end-to-end customer churn analytics solution using Brazil's Olist e-com
 └── README.md
 ```
 
-Run the notebooks in order: `data_cleaning` > `eda_and_segmentation` > `churn_model`. Each one reads from and writes to the `Data/` folder, so set `drive_path` at the top of each notebook to your `Data/` location. Dataset: [Olist Brazilian E-Commerce on Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce).
+-- Run the notebooks in order: `data_cleaning` > `eda_and_segmentation` > `churn_model`. Each one reads from and writes to the `Data/` folder, so set `drive_path` at the top of each notebook to your `Data/` location. 
+-- olist_cleaned_items.csv is generated after running data_cleaning and is used for eda_segementation and model training.
+-- Dataset: [Olist Brazilian E-Commerce on Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce).
 
 ---
 
@@ -62,14 +63,16 @@ Run the notebooks in order: `data_cleaning` > `eda_and_segmentation` > `churn_mo
 
 > **Caveat:** the churn model is weak (ROC-AUC 0.56), so use the scores to prioritize outreach, not to forecast.
 
-Full breakdown of segments, clusters, model results, the action matrix and recommendations: **[INSIGHTS_OUTCOMES.md](INSIGHTS_OUTCOMES.md)**.
+Full breakdown of segments, clusters, model results, the action matrix and recommendations: **[INSIGHTS & OUTCOMES.md](INSIGHTS & OUTCOMES.md)**.
 
 ---
 
-## Dashboard
+## Dashboard --
 <img width="2880" height="1620" alt="dashboard_1_overview" src="https://github.com/user-attachments/assets/ab6e1af2-4cdc-45c2-9000-cc311f992c8a" />
 <img width="2880" height="1620" alt="dashboard_2_delivery_satisfaction" src="https://github.com/user-attachments/assets/af4e6dd1-fb88-49f8-b280-47bf115cb422" />
 <img width="2880" height="1620" alt="dashboard_3_segments_revenue_risk" src="https://github.com/user-attachments/assets/80d9bd4a-be2e-49ed-a59b-73b2e7d5eb05" />
 <img width="2880" height="1620" alt="dashboard_4_behavioural_clusters" src="https://github.com/user-attachments/assets/0bf36e26-b738-44ab-af1f-165f5aada873" />
 <img width="2880" height="1620" alt="dashboard_5_model_actions" src="https://github.com/user-attachments/assets/2be75ca2-de22-4927-bc45-d47103c7d7fc" />
 
+## Author
+Anurag Tiwari
