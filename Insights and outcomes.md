@@ -1,6 +1,6 @@
 # Insights & Outcomes
 
-Findings from the Olist customer retention and churn analysis. Scope: **93,358 unique customers**, **110,197 delivered order items** and **R$15.4M** in revenue. Churn is defined as no purchase in the last 120 days. The full write-up is in `Project_Report.docx`.
+Findings from the Olist customer retention and churn analysis. Scope: **93,358 unique customers**, **110,197 delivered order items** and **R$15.4M** in revenue. Churn is defined as no purchase in the last 120 days.
 
 ---
 
