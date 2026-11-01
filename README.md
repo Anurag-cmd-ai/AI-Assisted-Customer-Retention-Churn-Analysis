@@ -31,7 +31,7 @@ Built an end-to-end customer churn analytics solution using Brazil's Olist e-com
 ```
 ├── Data/
 │   ├── olist_orders_dataset.csv                  raw Olist tables (Kaggle)
-├── src_notebook/
+├── notebook/
 │   ├── 01_data_cleaning.ipynb                    merge, clean, feature engineering
 │   └── 02_eda_and_segmentation.ipynb             EDA, RFM segmentation, K-Means clustering
 ├── model/
@@ -40,7 +40,7 @@ Built an end-to-end customer churn analytics solution using Brazil's Olist e-com
 │   ├── dashboard_1_retention_overview.png
 │   ├── dashboard_2_behavioural_clusters.png
 │   └── dashboard_3_churn_model_actions.png
-├── INSIGHTS.md                                   detailed insights and outcomes
+├── Insights_and_outcomes.md                                   detailed insights and outcomes
 └── README.md
 ```
 
